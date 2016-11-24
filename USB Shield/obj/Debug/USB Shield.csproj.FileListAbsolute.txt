@@ -1,0 +1,20 @@
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\bin\Debug\USB Shield.exe.config
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\bin\Debug\USB Shield.exe
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\bin\Debug\USB Shield.pdb
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.Home.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.Properties.Resources.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.csproj.GenerateResource.Cache
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.exe
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.pdb
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.ScanForm.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.csprojResolveAssemblyReference.cache
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.toolsForm.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.aboutForm.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.homeContent.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.setPasswordForm.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB_Shield.confirmPasswordForm.resources
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\bin\Debug\USB Shield.exe.manifest
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\bin\Debug\USB Shield.application
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.TrustInfo.xml
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.exe.manifest
+C:\Users\hiethem\Desktop\myProject\USB Shield\USB Shield\obj\Debug\USB Shield.application
